@@ -1,2 +1,1 @@
-# hello-world
-练习
+# hello-这是一个练习
